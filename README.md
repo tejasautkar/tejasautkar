@@ -8,4 +8,4 @@
 - 💬 Ask me about Typescript, NodeJS, Design Patterns in javascript.
 - 🏔️ I like mountains and listening to good English and Hindi music. We can always talk about Hip-Hop.
 - 👯 I’m looking to collaborate on good typescript/javascript projects.
-- 📫 How to reach me: [Twitter](https://twitter.com/tejastweets_)
+- 📫 How to reach me: [Twitter](https://twitter.com/tejastweets_) | [LinkedIn](https://in.linkedin.com/in/tejasautkar)
