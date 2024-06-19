@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-### I am Tejas Autkar,
+### I'm Tejas Autkar
 
+🔭 I'm an experienced full-stack web developer specializing in ReactJS, NodeJS, PostgreSQL, and AWS, with a knack for problem-solving and creating efficient, scalable solutions.
 
-🔭 I’m currently working on an itinerary web app and a chat application with authentication, authorization and session management.
-- 🌱 Although I have been working as a MEAN stack (typescript) developer for more than a year now, I am dabbling with ReactJS and also making my backend fundamentals strong.
-- 💬 Ask me about Typescript, NodeJS, Design Patterns in javascript.
-- 🏔️ I like mountains and listening to good English and Hindi music. We can always talk about Hip-Hop.
-- 👯 I’m looking to collaborate on good typescript/javascript projects.
-- 📫 How to reach me: [Twitter](https://twitter.com/tejastweets_) | [LinkedIn](https://in.linkedin.com/in/tejasautkar)
+- 🌐 I bring a solid background in working with ElasticSearch and MongoDB.
+- 🌌 A lover of celestial views, I find inspiration in the moon, sunsets, and expansive skies.
+- 👯 I’m eager to collaborate on innovative TypeScript/JavaScript projects.
+- 📫 Feel free to reach out: [Twitter](https://x.com/tejastweets_) | [LinkedIn](https://in.linkedin.com/in/tejasautkar)
